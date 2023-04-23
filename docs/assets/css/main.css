@@ -2862,7 +2862,7 @@ button:disabled,
 /* Footer */
 
 #footer {
-    min-height: 100vh;
+    min-height: 70vh;
     padding: 0 0 12em 0;
     position: relative;
     text-align: center;
